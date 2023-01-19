@@ -1,2 +1,2 @@
-com\herokuapp\theinternet\NegativeTests.class
-com\herokuapp\theinternet\PositiveTests.class
+com\herokuapp\theinternet\ExceptionTests.class
+com\herokuapp\theinternet\LoginTests.class
